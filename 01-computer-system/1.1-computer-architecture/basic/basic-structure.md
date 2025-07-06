@@ -2,7 +2,7 @@
 
 ## 1.1 전체 시스템 구조
 
-![alt text](images\컴퓨터의-구조.png)
+<img src="images\컴퓨터의-구조.png" width="500" height="300"/>
 
 ### CPU (Central Processing Unit) - 중앙처리장치
 
@@ -32,7 +32,7 @@
 
 ## 1.2 시스템 버스 (System Bus)
 
-![alt text](<images\시스템 버스.png>) <br>
+<img src="images\시스템 버스.png" width="500" height="300"/>
 
 #### **시스템 버스**는 컴퓨터의 4가지 핵심 부품들이 서로 정보를 주고받는 통로이다.
 
@@ -42,7 +42,7 @@
 
 ## 1.3 메모리 계층 구조 (Memory Hierarchy)
 
-![alt text](<images\메모리 계층 구조.png>)
+<img src="images\메모리 계층 구조.png" width="500" height="300"/>
 
 #### 메모리는 속도, 용량, 가격에 따라 계층적으로 구성된다.
 
