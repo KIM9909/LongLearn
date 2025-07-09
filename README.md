@@ -23,14 +23,14 @@ LongLearn
 
 🟢 Basic
 
-- [CPU, 메모리, 저장장치의 기본 구조]()
-- [폰 노이만 구조와 하버드 구조]()
-- [명령어 집합 구조 (ISA)]()
+- [CPU, 메모리, 저장장치의 기본 구조](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.1-computer-architecture/basic/basic-structure.md)
+- [폰 노이만 구조와 하버드 구조](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.1-computer-architecture/basic/von-neumann-harvard.md)
+- [명령어 집합 구조 (ISA)](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.1-computer-architecture/basic/instruction-set.md)
 
 🟡 Intermediate
 
-- [파이프라인과 병렬 처리]()
-- [캐시 메모리 구조와 동작 원리]()
+- [파이프라인과 병렬 처리](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.1-computer-architecture/intermediate/pipeline-parallel.md)
+- [캐시 메모리 구조와 동작 원리](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.1-computer-architecture/intermediate/cache-memory.md)
 
 🔴 Advanced
 
@@ -49,9 +49,9 @@ LongLearn
 
 🟢 Basic
 
-- [운영체제의 역할과 구조]()
-- [프로세스와 스레드]()
-- [프로세스 상태와 스케줄링]()
+- [운영체제의 역할과 구조](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.2-operating-system/basic/os-structure.md)
+- [프로세스와 스레드](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.2-operating-system/basic/process-thread.md)
+- [프로세스 상태와 스케줄링](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.2-operating-system/basic/process-scheduling.md)
 
 🟡 Intermediate
 
