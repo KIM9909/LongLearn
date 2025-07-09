@@ -55,10 +55,10 @@ LongLearn
 
 🟡 Intermediate
 
-- [동기화 (Mutex, Semaphore, Monitor)]()
-- [데드락과 해결 방법]()
-- [가상 메모리와 페이징]()
-- [파일 시스템]()
+- [동기화 (Mutex, Semaphore, Monitor)](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.2-operating-system/intermediate/synchronization.md)
+- [데드락과 해결 방법](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.2-operating-system/intermediate/deadlock.md)
+- [가상 메모리와 페이징](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.2-operating-system/intermediate/virtual-memory.md)
+- [파일 시스템](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.2-operating-system/intermediate/file-system.md)
 
 🔴 Advanced
 
