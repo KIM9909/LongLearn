@@ -79,9 +79,9 @@ LongLearn
 
 🟢 Basic
 
-- [성능 측정 지표 (Latency, Throughput, QPS)]()
-- [프로파일링 도구 사용법]()
-- [기본적인 병목 지점 식별]()
+- [성능 측정 지표 (Latency, Throughput, QPS)](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.3-performance-optimization/basic/performance-metrics.md)
+- [프로파일링 도구 사용법](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.3-performance-optimization/basic/profiling-tools.md)
+- [기본적인 병목 지점 식별](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.3-performance-optimization/basic/bottleneck-identification.md)
 
 🟡 Intermediate
 
