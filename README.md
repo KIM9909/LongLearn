@@ -85,10 +85,10 @@ LongLearn
 
 🟡 Intermediate
 
-- [메모리 프로파일링]()
-- [CPU 사용률 분석]()
-- [I/O 성능 최적화]()
-- [네트워크 성능 튜닝]()
+- [메모리 프로파일링](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.3-performance-optimization/intermediate/memory-profiling.md)
+- [CPU 사용률 분석](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.3-performance-optimization/intermediate/cpu-analysis.md)
+- [I/O 성능 최적화](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.3-performance-optimization/intermediate/io-optimization.md)
+- [네트워크 성능 튜닝](https://github.com/KIM9909/LongLearn/blob/master/01-computer-system/1.3-performance-optimization/intermediate/network-tuning.md)
 
 🔴 Advanced
 
